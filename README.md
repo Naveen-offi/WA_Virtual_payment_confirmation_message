@@ -22,4 +22,10 @@ This platform is developed for sending fees paid information for their respectiv
 - home page consists of 4 columns - stu_id, stu_name, month, send button.
 - when send button is clicked a virtual payment confirmation message is sent through whatsapp. the button function gets details from database.
 
-#Screenshots
+# Screenshots
+![image](/src/login-page.png) 
+![image](/src/student-date-1.png)
+![image](/src/admin.png)
+![image](/src/stu-detail.png)
+![image](/src/add-student.png)
+![image](/src/whatsapp-sent.jpg)
